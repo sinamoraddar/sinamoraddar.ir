@@ -1,6 +1,7 @@
-import Img from "gatsby-image"
-import React from "react"
-import { ProfileType } from "../../types"
+import Img from "gatsby-image";
+import React from "react";
+import gravatar from "gravatar";
+import { ProfileType } from "../../types";
 
 const ProfileImage = ({ image, name }) => (
   <div className="relative inline-block leading-none">
@@ -11,11 +12,11 @@ const ProfileImage = ({ image, name }) => (
     />
     <div className="absolute inset-0 rounded-full bg-lead z-0 transform translate-x-12"></div>
   </div>
-)
+);
 
 ProfileImage.propTypes = {
   image: ProfileType.image,
   name: ProfileType.name,
-}
+};
 
-export default ProfileImage
+export default ProfileImage;

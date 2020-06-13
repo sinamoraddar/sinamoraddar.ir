@@ -1,14 +1,14 @@
 - name: linkedin
-  url: https://linkedin.com/in/username
+  url: https://www.linkedin.com/in/sinamoraddar/
 
 - name: twitter
-  url: https://twitter.com/username
+  url: https://twitter.com/sina_moraddar
 
 - name: facebook
   url:
 
 - name: instagram
-  url:
+  url: https://www.instagram.com/sina_moraddar/?hl=en
 
 - name: dribbble
   url:
@@ -20,4 +20,13 @@
   url:
 
 - name: github
-  url: https://github.com/username
+  url: https://github.com/sinamoraddar
+
+- name: phone
+  url: tel:+989378799612
+
+- name: email
+  url: mailto:sinamoraddar@gmail.com
+
+- name: resume
+  url: https://document-downloader.jjcloud.ir/download?requester=38372e3130372e3235322e313234&resource=753a31333634343134&from=6f636170706c79&download_uri=8b1bbdc0-044a-11ea-b443-26a4da5b8340_b4d7849a-4dd9-4e45-83d7-d78a1b4cff66.pdf&signing=63fd1288fb164a107790cff4253f089465040fd40147739814f4af7289d00669&rand=5ee45bbb46d38

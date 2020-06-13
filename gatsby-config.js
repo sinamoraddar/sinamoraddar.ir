@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    description: "Personal page of John Doe",
+    description: "Personal page of Sina Moraddar",
     locale: "en",
-    showThemeLogo: true,
-    title: "John Doe",
+    showThemeLogo: false,
+    title: "Sina Moraddar",
   },
   plugins: [
     {
@@ -30,4 +30,4 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
   ],
-}
+};

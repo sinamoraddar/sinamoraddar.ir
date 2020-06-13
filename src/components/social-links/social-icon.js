@@ -1,4 +1,4 @@
-import React from "react"
+import React from "react";
 import {
   FaBehance,
   FaDribbble,
@@ -8,8 +8,11 @@ import {
   FaLinkedinIn,
   FaProductHunt,
   FaTwitter,
-} from "react-icons/fa"
-import { SocialType } from "../../types"
+  FaPhone,
+  FaMailBulk,
+  FaPaperclip,
+} from "react-icons/fa";
+import { SocialType } from "../../types";
 
 const SocialIcon = ({ name, ...params }) => {
   const icons = {
@@ -21,15 +24,18 @@ const SocialIcon = ({ name, ...params }) => {
     linkedin: FaLinkedinIn,
     producthunt: FaProductHunt,
     twitter: FaTwitter,
-  }
+    phone: FaPhone,
+    email: FaMailBulk,
+    resume: FaPaperclip,
+  };
 
-  const Icon = icons[name]
+  const Icon = icons[name];
 
-  return Icon ? <Icon {...params} /> : null
-}
+  return Icon ? <Icon {...params} /> : null;
+};
 
 SocialIcon.propTypes = {
   name: SocialType.name,
-}
+};
 
-export default SocialIcon
+export default SocialIcon;

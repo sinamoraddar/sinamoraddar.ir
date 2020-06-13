@@ -1,6 +1,6 @@
-import React from "react"
-import { FaEnvelope } from "react-icons/fa"
-import { ProfileType } from "../../types"
+import React from "react";
+import { FaEnvelope } from "react-icons/fa";
+import { ProfileType } from "../../types";
 
 const Header = ({ initials }) => (
   <header className="flex justify-between p-4 lg:px-8">
@@ -15,10 +15,10 @@ const Header = ({ initials }) => (
       <span className="hidden lg:block">Contact me</span>
     </a>
   </header>
-)
+);
 
 Header.propTypes = {
   initials: ProfileType.initials,
-}
+};
 
-export default Header
+export default Header;
