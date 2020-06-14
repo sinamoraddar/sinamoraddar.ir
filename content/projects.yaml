@@ -3,10 +3,11 @@
   description: A Website built with React.js for a health agency
   status: live
   tags:
+    - In collaboration with Nahira company
     - JavaScript
     - React
     - Redux
+    - SCSS
     - Multilingual Website
-    - In collaboration with Nahira company
   icon: website
   image: images/medradar.jpg

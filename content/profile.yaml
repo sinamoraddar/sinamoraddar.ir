@@ -5,7 +5,7 @@
   profession: Front-End Developer
   image: images/profile.jpg
   location: Tehran, Iran
-  relocation: true
+  relocation: false
   company: Nahira
   for_hire: false
   focus: Learning New Stuff
