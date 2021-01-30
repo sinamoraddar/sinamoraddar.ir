@@ -2,29 +2,27 @@
   initials: SM
   name: Sina Moraddar
   email: sinamoraddar@gmail.com
-  profession: Front-End Developer
+  profession: Front-End Web Developer
   image: images/profile.jpg
   location: Tehran, Iran
-  relocation: false
-  company: Nahira
-  for_hire: false
+  relocation: True
+  company: ---
+  for_hire: True
   focus: Learning New Stuff
   focus_url: https://gatsbyjs.org
   about: |
-    Just a self taught developer who is in love with the creation of new things.
-    Passionate about learning new things and technologies which are related to my career.
-    My main focus is on the Front-End path ,
-    but i'm not scared of trying new things and areas (e.g backend development,devops,etc.).
-     i also have a little bit of experience in nodejs and backend development
+    Just a self taught developer who is in love with the creation of new things. Passionate about learning new things and technologies which are related to my career. My main focus is on the Front-End path , but i'm not scared of trying new things and areas (e.g backend development,devops,etc.). i also have a little bit of experience in nodejs and backend development
   skills:
+    - React
     - JavaScript
     - HTML / CSS
-    - React
   tools:
     - Redux
+    - Typescript
+    - Socket.io
+    - RESTful API
+    - GraphQL
     - Git
-    - VSCode
-    - Gatsby
     - SCSS
   budget:
     currency: $
