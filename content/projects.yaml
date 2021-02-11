@@ -1,5 +1,5 @@
 - name: Medradar
-  url: http://medradar.me
+  url: http://medradar.sinamoraddar.ir
   description: A Website built with React.js for a health agency
   status: live
   tags:
