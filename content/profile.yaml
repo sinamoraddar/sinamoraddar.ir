@@ -5,9 +5,9 @@
   profession: Front-End Web Developer
   image: images/profile.jpg
   location: Tehran, Iran
-  relocation: True
-  company: ---
-  for_hire: True
+  relocation: false
+  company: Bimito
+  for_hire: false
   focus: Learning New Stuff
   focus_url: https://gatsbyjs.org
   about: |
